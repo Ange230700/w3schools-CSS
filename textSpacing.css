@@ -6,37 +6,37 @@ p {
 
 /* LETTER SPACING */
 
-.letterSpacingExperimentation1{
-    letter-spacing: 4px;
+.letterSpacingExperimentation1 {
+  letter-spacing: 4px;
 }
 
-.letterSpacingExperimentation2{
-    letter-spacing: -2px;
+.letterSpacingExperimentation2 {
+  letter-spacing: -2px;
 }
 
 /* LINE HEIGHT */
 
-.small{
-    line-height: 0.8;
+.small {
+  line-height: 0.8;
 }
 
-.big{
-    line-height: 1.8;
+.big {
+  line-height: 1.8;
 }
 
 /* WORD SPACING */
 
-.one{
-    word-spacing: 10px;
+.one {
+  word-spacing: 10px;
 }
 
-.two{
-    word-spacing: -2px;
+.two {
+  word-spacing: -2px;
 }
 
 /* WHITE SPACE */
 
-.whiteSpaceExperimentation{
-    /* white-space: nowrap; */
-    white-space: pre-wrap;
+.whiteSpaceExperimentation {
+  /* white-space: nowrap; */
+  white-space: pre-wrap;
 }

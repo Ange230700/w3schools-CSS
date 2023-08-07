@@ -1,0 +1,15 @@
+li {
+  list-style-type: none;
+}
+
+li a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
